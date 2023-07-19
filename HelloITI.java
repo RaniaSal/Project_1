@@ -1,3 +1,5 @@
-class HelloITI
+class HelloITI{
+	public void helloWorld(){
 	
+	}
 }
